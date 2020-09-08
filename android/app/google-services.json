@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458919873950",
+    "firebase_url": "https://stonkfarm.firebaseio.com",
+    "project_id": "stonkfarm",
+    "storage_bucket": "stonkfarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458919873950:android:506e85581f8d72c7b75a8f",
+        "android_client_info": {
+          "package_name": "com.androidthai.stonkfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458919873950-gp3snpbvfs0tjam49h3pq2bh0resslan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XfxDADdP-2nuQMFOBmP_czqvaVAPhI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458919873950-gp3snpbvfs0tjam49h3pq2bh0resslan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>458919873950-e8i1rs4cv7p4qm1feof7eb8i6t3i8s7d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.458919873950-e8i1rs4cv7p4qm1feof7eb8i6t3i8s7d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQn6rgDCRGcwkyo-CuOAiFgQGrzW1wn0g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>458919873950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.androidthai.stonkfarm</string>
+	<key>PROJECT_ID</key>
+	<string>stonkfarm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stonkfarm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:458919873950:ios:c9286eb4259a2535b75a8f</string>
+	<key>DATABASE_URL</key>
+	<string>https://stonkfarm.firebaseio.com</string>
+</dict>
+</plist>
